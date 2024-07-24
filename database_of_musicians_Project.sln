@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "database_of_musicians_Project", "database_of_musicians_Project\database_of_musicians_Project.vcxproj", "{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Debug|x64.ActiveCfg = Debug|x64
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Debug|x64.Build.0 = Debug|x64
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Debug|x86.Build.0 = Debug|Win32
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Release|x64.ActiveCfg = Release|x64
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Release|x64.Build.0 = Release|x64
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Release|x86.ActiveCfg = Release|Win32
+		{FA6626BF-0638-4BEA-B6F5-F56D2405EF81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D4883F-B8DC-481E-AFC6-2E0C6B0CF2E8}
+	EndGlobalSection
+EndGlobal

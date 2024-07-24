@@ -1,0 +1,27 @@
+﻿  Source.c
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(54,30): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(55,29): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *'
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(67,34): warning C4013: 'arrayToString' undefined; assuming extern returning int
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(68,48): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(68,39): warning C4024: 'createNewTNode': different types for formal and actual parameter 1
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(84,40): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(84,31): warning C4024: 'createNewTNode': different types for formal and actual parameter 1
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(116,16): warning C4013: 'makeEmptyList' undefined; assuming extern returning int
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(125,35): warning C4013: 'fromStringToNum' undefined; assuming extern returning int
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(125,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(127,25): warning C4013: 'insertDataToEndList' undefined; assuming extern returning int
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(107,53): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(111,53): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(137,55): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(101,6): warning C4101: 'sizeStr': unreferenced local variable
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(154,6): error C2371: 'insertDataToEndList': redefinition; different basic types
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(157,29): warning C4013: 'createNewListNode' undefined; assuming extern returning int
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(157,41): warning C4047: '=': 'LNODE *' differs in levels of indirection from 'int'
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(158,21): warning C4013: 'insertNodeToEndList' undefined; assuming extern returning int
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(160,8): error C2040: 'createNewListNode': 'LNODE *(MusicianPriceInstrument,LNODE *)' differs in levels of indirection from 'int ()'
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(169,6): error C2371: 'insertNodeToEndList': redefinition; different basic types
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(171,17): warning C4013: 'isEmptyList' undefined; assuming extern returning int
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(180,6): error C2371: 'isEmptyList': redefinition; different basic types
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(187,6): error C2371: 'makeEmptyList': redefinition; different basic types
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(193,32): warning C4028: formal parameter 1 different from declaration
+C:\Users\shaf9\OneDrive\שולחן העבודה\database_of_musicians_Project\database_of_musicians_Project\Source.c(208,39): error C2059: syntax error: ')'
