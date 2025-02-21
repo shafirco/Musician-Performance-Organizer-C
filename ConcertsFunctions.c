@@ -228,6 +228,8 @@ Concert* getConcertData(InstrumentTree tr, bool* concertIsCanceled)
 	Concert* concert = (Concert*)malloc(sizeof(Concert));
 	checkMemoryAllocation(concert);
 	ConcertInstrument data;
+	printf("\033[1;31mEnter concert details in the following format:\033[0m\n");
+	printf("\033[1;31mConcert_Name DD MM YYYY HH:MM Instrument1 Num1 Importance1 Instrument2 Num2 Importance2 ...\033[0m\n");
 	concert->name = getWordFromUser(&lineIsFinished);
 	if (lineIsFinished == true)
 	{
